@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+}
+.flex{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.button{
+  padding: 20px;
+  margin: 0px 3px;
+  height: 60px;
+  width: 60px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: large;
+}
+
+.row{
+    margin: 8px 0px;
+}
+
+.row input{
+  margin: 0px;
+  padding: 17px 30px;
+  border: 2px solid black;
+  border-radius: 4px;
+  font-size: large;
+}
+
+.clear{
+  height: 30px;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 4px;
+}
